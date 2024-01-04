@@ -1,3 +1,8 @@
-# Scripts
+# Crypto Gambling Scripts
 
-Scripts : All created scripts for crypto gambling sites based on the requests.
+Simple JS gambling scripts developed for different strategies
+
+Usable in:
+  • Bustabit
+  • Ethercrash
+  • Any site with engine support
